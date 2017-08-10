@@ -1,0 +1,68 @@
+/*
+Theme Name: Car
+Theme URI: aaaaaaa.com
+Author: Mark Remy (Nguyễn Tiết Ngọc Châu)
+Author URI: aaaaaaa.com
+Description: Copyright in 2016 by Mark Remy
+Version: 1.0
+License: Design And Developer Website By Mark Remy (Nguyễn Tiết Ngọc Châu)
+License URI: aaaaaaa.com
+Tags: black, green, orange, blue, responsive, twelve-columns, right-sidebar. 
+Text Domain: car
+*/
+a
+{
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+}
+
+    a:hover
+    {
+        text-decoration: none;
+        color: #213f81;
+    }
+html, body
+{
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    background-color: #fff;
+}
+b, strong {
+    font-weight: bolder;
+}
+img{
+    max-width:100%;
+    height: auto;
+}
+.select1{
+    margin-bottom:30px;
+}
+.input-md{
+    padding:5px;
+    width:100%;
+}
+.btn-support-buycar{
+    border: 3px solid #213f81;
+    background: #213f81;
+    border-radius: 50px;
+    font-family: 'ModernHBold';
+    color: #fff;
+    line-height: 40px;
+    padding: 0;
+    text-align: center;
+}
+.title_table{
+    background:#C0C0C0;
+}
+.result_table{
+    color:#FFAE00;
+}
+#loadding{
+    background: url("img/car/loading.gif") no-repeat center center;
+    font-size:30px;
+    display:none;
+}

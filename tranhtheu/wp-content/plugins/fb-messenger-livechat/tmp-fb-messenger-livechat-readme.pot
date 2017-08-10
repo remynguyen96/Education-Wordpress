@@ -1,0 +1,94 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Facebook Messenger LiveChat"
+msgstr ""
+
+#. Short description.
+msgid "Live chat with your website users using Facebook Messenger."
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Messenger Chat"
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Messenger Badge"
+msgstr ""
+
+#. Found in description header.
+msgid "Plugin Features"
+msgstr ""
+
+#. Found in description list item.
+msgid "It's free!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Adaptive design"
+msgstr ""
+
+#. Found in description list item.
+msgid "Auto-resize"
+msgstr ""
+
+#. Found in description list item.
+msgid "Boost Sales"
+msgstr ""
+
+#. Found in description list item.
+msgid "Live chat title"
+msgstr ""
+
+#. Found in description list item.
+msgid "Live chat badge position"
+msgstr ""
+
+#. Found in description list item.
+msgid "Messages, Timeline and Events Tab"
+msgstr ""
+
+#. Found in description list item.
+msgid "Web or desktop apps for Android and iOS."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Responsive and powerful live chat on your website using <strong>Facebook Messenger</strong>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Live demo: <a href=\"http://widgetsforsite.com/\">http://widgetsforsite.com/</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Feel free to try other our services <a href=\"https://widgetpack.com/\">https://widgetpack.com/</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unpack archive to this archive to the 'wp-content/plugins/' directory inside of WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Support"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<p>Chat support https://widgetpack.com/forum</p>"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "<p>Email support contact@widgetpack.com</p>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Chat support https://widgetpack.com/forum"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Email support contact@widgetpack.com"
+msgstr ""
